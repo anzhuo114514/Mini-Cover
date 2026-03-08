@@ -16,7 +16,7 @@
     </div>
     <div class="mt-2 space-x-2">
       <span>© 2024</span>
-      <a href="https://bsgun.cn" 
+      <a href="." 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">ikun工具箱</a>
       <a v-if="icpNumber" 
